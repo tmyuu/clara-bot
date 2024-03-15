@@ -10,7 +10,7 @@ function fetchBottleStatus() {
         const options = {
             hostname: 'localhost',
             port: 9000,
-            path: '/bottle/6',
+            path: '/bottlestatus',
             method: 'GET',
         };
 
