@@ -13,8 +13,8 @@
 ## インストール手順
 1. このリポジトリをクローンします。
     ```bash
-    git clone [リポジトリURL]
-    cd [プロジェクトディレクトリ]
+    git clone https://github.com/tmyuu/clara-bot.git
+    cd clara-bot
     ```
 
 2. `src`ディレクトリ内で依存関係をインストールします。
